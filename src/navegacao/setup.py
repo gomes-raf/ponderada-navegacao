@@ -20,6 +20,7 @@ setup(
     entry_points={
         'console_scripts': [
             'parte1 = navegacao.parte1:main',
+            'parte2 = navegacao.parte2:main',
         ],
     },
 )
